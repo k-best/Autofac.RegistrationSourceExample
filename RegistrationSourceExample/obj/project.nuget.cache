@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0i8rbvzr3m4WeOWRgEaVX7tzx4AsKU6eRzrUQVGLUEol67DOMqV2JBY1cIsBGfuuupVOTFgHI/fWTfhwg5MpSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kbestemyanov.INT\\source\\repos\\RegistrationSourceExample\\RegistrationSourceExample\\RegistrationSourceExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kbestemyanov.INT\\.nuget\\packages\\autofac\\6.4.0\\autofac.6.4.0.nupkg.sha512",
+    "C:\\Users\\kbestemyanov.INT\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

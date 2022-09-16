@@ -1,0 +1,17 @@
+C:\Users\kbestemyanov.INT\source\repos\RegistrationSourceExample\RegistrationSourceExample\bin\Debug\netcoreapp3.1\RegistrationSourceExample.exe
+C:\Users\kbestemyanov.INT\source\repos\RegistrationSourceExample\RegistrationSourceExample\bin\Debug\netcoreapp3.1\RegistrationSourceExample.deps.json
+C:\Users\kbestemyanov.INT\source\repos\RegistrationSourceExample\RegistrationSourceExample\bin\Debug\netcoreapp3.1\RegistrationSourceExample.runtimeconfig.json
+C:\Users\kbestemyanov.INT\source\repos\RegistrationSourceExample\RegistrationSourceExample\bin\Debug\netcoreapp3.1\RegistrationSourceExample.runtimeconfig.dev.json
+C:\Users\kbestemyanov.INT\source\repos\RegistrationSourceExample\RegistrationSourceExample\bin\Debug\netcoreapp3.1\RegistrationSourceExample.dll
+C:\Users\kbestemyanov.INT\source\repos\RegistrationSourceExample\RegistrationSourceExample\bin\Debug\netcoreapp3.1\RegistrationSourceExample.pdb
+C:\Users\kbestemyanov.INT\source\repos\RegistrationSourceExample\RegistrationSourceExample\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\kbestemyanov.INT\source\repos\RegistrationSourceExample\RegistrationSourceExample\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kbestemyanov.INT\source\repos\RegistrationSourceExample\RegistrationSourceExample\obj\Debug\netcoreapp3.1\RegistrationSourceExample.csproj.AssemblyReference.cache
+C:\Users\kbestemyanov.INT\source\repos\RegistrationSourceExample\RegistrationSourceExample\obj\Debug\netcoreapp3.1\RegistrationSourceExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kbestemyanov.INT\source\repos\RegistrationSourceExample\RegistrationSourceExample\obj\Debug\netcoreapp3.1\RegistrationSourceExample.AssemblyInfoInputs.cache
+C:\Users\kbestemyanov.INT\source\repos\RegistrationSourceExample\RegistrationSourceExample\obj\Debug\netcoreapp3.1\RegistrationSourceExample.AssemblyInfo.cs
+C:\Users\kbestemyanov.INT\source\repos\RegistrationSourceExample\RegistrationSourceExample\obj\Debug\netcoreapp3.1\RegistrationSourceExample.csproj.CoreCompileInputs.cache
+C:\Users\kbestemyanov.INT\source\repos\RegistrationSourceExample\RegistrationSourceExample\obj\Debug\netcoreapp3.1\RegistrationSourceExample.csproj.CopyComplete
+C:\Users\kbestemyanov.INT\source\repos\RegistrationSourceExample\RegistrationSourceExample\obj\Debug\netcoreapp3.1\RegistrationSourceExample.dll
+C:\Users\kbestemyanov.INT\source\repos\RegistrationSourceExample\RegistrationSourceExample\obj\Debug\netcoreapp3.1\RegistrationSourceExample.pdb
+C:\Users\kbestemyanov.INT\source\repos\RegistrationSourceExample\RegistrationSourceExample\obj\Debug\netcoreapp3.1\RegistrationSourceExample.genruntimeconfig.cache

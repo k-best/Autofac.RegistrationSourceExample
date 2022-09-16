@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3f35e454_002Da832_002D4484_002D9def_002D8f7569e3baf1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ResolveManyHandlersForSameMessageTypeShouldReturnProperNumberOfWrapperClasses" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::CE86503D-CBF3-4575-B170-643AB7A6AD7B::.NETCoreApp,Version=v3.1::RegistrationSourceExample.Test.CheckHandlerTransform.ResolveManyHandlersForSameMessageTypeShouldReturnProperNumberOfWrapperClasses&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=93737cc4_002D21e4_002D41fb_002Da523_002D1cd311f2c6bd/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ResolveInnerHandlerShouldReturnWrapperOverOuterHandler" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::CE86503D-CBF3-4575-B170-643AB7A6AD7B::.NETCoreApp,Version=v3.1::RegistrationSourceExample.Test.CheckHandlerTransform.ResolveInnerHandlerShouldReturnWrapperOverOuterHandler&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::CE86503D-CBF3-4575-B170-643AB7A6AD7B::.NETCoreApp,Version=v3.1::RegistrationSourceExample.Test.CheckHandlerTransform.ResolveManyHandlersForSameMessageTypeShouldReturnProperNumberOfWrapperClasses&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::CE86503D-CBF3-4575-B170-643AB7A6AD7B::.NETCoreApp,Version=v3.1::RegistrationSourceExample.Test.CheckHandlerTransform.ResolvedWrapperShouldDelegateHandleToRegisteredService&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
